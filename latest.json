@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "released_at": "2026-04-23",
+  "version": "0.2.3",
+  "released_at": "2026-04-28",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "klinikspecifika videor, strukturerad manus-editor, dynamisk stock-lista"
+  "notes": "Curation per behandling/språk, sökbar dropdown, dansk röst (Camilla, Mads), avbryt-knapp i kö, Windows-fixar"
 }
