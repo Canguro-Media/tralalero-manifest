@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "released_at": "2026-04-28",
+  "version": "0.2.4",
+  "released_at": "2026-04-29",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Curation per behandling/språk, sökbar dropdown, dansk röst (Camilla, Mads), avbryt-knapp i kö, Windows-fixar"
+  "notes": "Desktop-notiser med ljud när videor är klara, Windows konsolfönster-fix, export direkt till Downloads"
 }
