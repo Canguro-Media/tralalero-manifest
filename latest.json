@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "released_at": "2026-04-29",
+  "version": "0.2.5",
+  "released_at": "2026-05-07",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Desktop-notiser med ljud när videor är klara, Windows konsolfönster-fix, export direkt till Downloads"
+  "notes": "Caption-sync-overhaul: 35/36 perfekt sync. Mac notification öppnar nu Finder-mappen direkt."
 }
