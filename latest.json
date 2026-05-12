@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "released_at": "2026-05-12",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Pratvideoläge — nytt arbetsläge för pratvideor + auto-reel. Path-fixar efter v0.3.0-beta."
+  "notes": "Rosetta 2 auto-install för Apple Silicon. Wizarden hoppar nu över redan-ifyllda steg."
 }
