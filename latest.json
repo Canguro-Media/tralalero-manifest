@@ -1,6 +1,6 @@
 {
-  "version": "0.2.5",
-  "released_at": "2026-05-07",
+  "version": "0.3.1",
+  "released_at": "2026-05-12",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Caption-sync-overhaul: 35/36 perfekt sync. Mac notification öppnar nu Finder-mappen direkt."
+  "notes": "Pratvideoläge — nytt arbetsläge för pratvideor + auto-reel. Path-fixar efter v0.3.0-beta."
 }
