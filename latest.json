@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "released_at": "2026-05-12",
+  "version": "0.4.1",
+  "released_at": "2026-05-20",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Rosetta 2 auto-install för Apple Silicon. Wizarden hoppar nu över redan-ifyllda steg."
+  "notes": "Pratvideo polish: auto-pipeline-modal med b-roll-val, Pass 2 Sonnet-fallback + deterministisk sanering, snabbare export utan beach ball, brin→bryn hard-fix, deterministisk b-roll-placering."
 }
