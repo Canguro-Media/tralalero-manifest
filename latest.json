@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "released_at": "2026-05-20",
+  "version": "0.4.6",
+  "released_at": "2026-06-01",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Pratvideo polish: auto-pipeline-modal med b-roll-val, Pass 2 Sonnet-fallback + deterministisk sanering, snabbare export utan beach ball, brin→bryn hard-fix, deterministisk b-roll-placering."
+  "notes": "Take-väljare (human-in-the-loop klippval): kolumn-modal med drag-and-drop, manuell klipp-trim, inline text-edit, Haiku-proofread + svensk översättning, skip-captions för externa caption-verktyg. Animerade Remotion-captions i båda lägen (14 animationer + flow-DSL med sine/bezier/spiral/circle-paths). EL Scribe ensam som STT-default — A/B-test visade bättre kvalitet än multi-engine. Pipeline ~30% snabbare via parallellisering + diarization-cache."
 }
