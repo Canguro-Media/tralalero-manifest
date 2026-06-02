@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "released_at": "2026-06-01",
+  "version": "0.4.8",
+  "released_at": "2026-06-02",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Klippnings-fixar: caption-sync, sista klippet kapas inte längre, inga svarta skärmar mellan klipp. Hårda cuts (WYSIWYG) — exporten blir exakt det du satte ihop i take-väljaren. Tal visas som siffror (1990/3000) redan i take-väljaren. Remotion-captions fungerar nu i den paketerade appen (Node + Chromium laddas vid first-run). Snabbare take-väljare: parallella + cachade thumbnails. Stock-videor läggs till genom att bara släppa filen i Drive-mappen (undermapp per behandling) — ingen lista att redigera. Valbar Deepgram-STT (EL Scribe kvar som default)."
+  "notes": "Mer Remotion: fler typsnitt, animerade overlays (intro-/outro-kort, lower-third, pris-popup), övergångar (flash/zoom/wipe) och b-roll med Ken Burns — allt styrt från samma prompt-fält. Ljud-synk mot FLERA ljudfiler: ett klipp kan spänna över flera inspelningar och rent kameraljud (small-talk) klipps bort automatiskt. Take-väljaren: flera pre-hooks (en variant per pre-hook × hook), mycket snabbare drag-and-drop, alla trim-knappar syns + extend upp till 3s, och captions blir exakt det som står i take-väljaren. Auto-pipeline: namnge export-mappen + scrollbar modal."
 }
