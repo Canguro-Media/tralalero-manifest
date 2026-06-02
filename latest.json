@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
+  "version": "0.4.9",
   "released_at": "2026-06-02",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Mer Remotion: fler typsnitt, animerade overlays (intro-/outro-kort, lower-third, pris-popup), övergångar (flash/zoom/wipe) och b-roll med Ken Burns — allt styrt från samma prompt-fält. Ljud-synk mot FLERA ljudfiler: ett klipp kan spänna över flera inspelningar och rent kameraljud (small-talk) klipps bort automatiskt. Take-väljaren: flera pre-hooks (en variant per pre-hook × hook), mycket snabbare drag-and-drop, alla trim-knappar syns + extend upp till 3s, och captions blir exakt det som står i take-väljaren. Auto-pipeline: namnge export-mappen + scrollbar modal."
+  "notes": "Take-väljaren är mycket snabbare i appen: preview-bilderna laddar nu på sekunder i stället för flera minuter. Scrollen är fixad — kolumnerna hoppar inte längre till topp/botten, och den horisontella scrollen rör sig bara när man drar i scrollbaren (mushjul över en kolumn scrollar alltid vertikalt). Renare take-kort: kolumnerna heter Body 1, Body 2 osv. i stället för Problem/Värde/Bevis, och de gula varningstexterna är borttagna."
 }
