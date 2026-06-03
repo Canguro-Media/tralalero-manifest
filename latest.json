@@ -1,6 +1,6 @@
 {
-  "version": "0.4.10",
+  "version": "0.4.11",
   "released_at": "2026-06-03",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Viktig prestandafix för Mac: den förra versionen (0.4.9) byggdes med fel grafikbibliotek vilket gjorde take-väljaren extremt trög (kunde ta ett par minuter att öppna). Nu öppnas den på några sekunder igen. Alla take-väljar-förbättringar fungerar nu fullt ut: snabba preview-bilder, fixad scroll (kolumnerna hoppar inte, horisontell scroll bara via scrollbaren), Body-numrerade kolumner och rensade kort. Uppdatera om du kör 0.4.9 på Mac."
+  "notes": "Take-väljaren är mindre rörig och snabbare att jobba i. Korten är kompakta som standard — preview-bilden visas bara när du spelar klippet, och trim-knapparna bara på det kort du spelar. Du kan nu trimma/förlänga ett klipp MEDAN det loopar: loopen spelar klart, väntar in omklippningen och loopar sedan till den nya versionen, så du kan finjustera utan att starta om. Tidsstämplarna på korten är kronologiska även mellan klipp, så det är lätt att hitta den senaste (oftast rätta) tagningen. Pre-hooks- och Hooks-kolumnerna visas alltid."
 }
