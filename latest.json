@@ -1,6 +1,6 @@
 {
-  "version": "0.4.9",
-  "released_at": "2026-06-02",
+  "version": "0.4.10",
+  "released_at": "2026-06-03",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Take-väljaren är mycket snabbare i appen: preview-bilderna laddar nu på sekunder i stället för flera minuter. Scrollen är fixad — kolumnerna hoppar inte längre till topp/botten, och den horisontella scrollen rör sig bara när man drar i scrollbaren (mushjul över en kolumn scrollar alltid vertikalt). Renare take-kort: kolumnerna heter Body 1, Body 2 osv. i stället för Problem/Värde/Bevis, och de gula varningstexterna är borttagna."
+  "notes": "Viktig prestandafix för Mac: den förra versionen (0.4.9) byggdes med fel grafikbibliotek vilket gjorde take-väljaren extremt trög (kunde ta ett par minuter att öppna). Nu öppnas den på några sekunder igen. Alla take-väljar-förbättringar fungerar nu fullt ut: snabba preview-bilder, fixad scroll (kolumnerna hoppar inte, horisontell scroll bara via scrollbaren), Body-numrerade kolumner och rensade kort. Uppdatera om du kör 0.4.9 på Mac."
 }
