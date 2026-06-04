@@ -1,6 +1,6 @@
 {
-  "version": "0.4.11",
-  "released_at": "2026-06-03",
+  "version": "0.4.12",
+  "released_at": "2026-06-04",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Take-väljaren är mindre rörig och snabbare att jobba i. Korten är kompakta som standard — preview-bilden visas bara när du spelar klippet, och trim-knapparna bara på det kort du spelar. Du kan nu trimma/förlänga ett klipp MEDAN det loopar: loopen spelar klart, väntar in omklippningen och loopar sedan till den nya versionen, så du kan finjustera utan att starta om. Tidsstämplarna på korten är kronologiska även mellan klipp, så det är lätt att hitta den senaste (oftast rätta) tagningen. Pre-hooks- och Hooks-kolumnerna visas alltid."
+  "notes": "Snabbare auto-pipeline: stegen INNAN take-väljaren går nu betydligt fortare på långa klipp och ljudfiler (synkningen av ett 10-minutersklipp gick från ~7 min till ~4 min), utan kvalitetsförlust. Sync och ljud-förbättring körs nu också parallellt över flera klipp. Ny knapp under AI-verktyg: 'Rensa API-cache' om du vill mäta pipelinens verkliga tid på nytt material. Annonsläget är helt oförändrat."
 }
