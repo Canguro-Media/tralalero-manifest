@@ -1,6 +1,6 @@
 {
-  "version": "0.4.12",
-  "released_at": "2026-06-04",
+  "version": "0.4.17",
+  "released_at": "2026-06-08",
   "download_page": "https://github.com/Canguro-Media/videoeditor/releases/latest",
-  "notes": "Snabbare auto-pipeline: stegen INNAN take-väljaren går nu betydligt fortare på långa klipp och ljudfiler (synkningen av ett 10-minutersklipp gick från ~7 min till ~4 min), utan kvalitetsförlust. Sync och ljud-förbättring körs nu också parallellt över flera klipp. Ny knapp under AI-verktyg: 'Rensa API-cache' om du vill mäta pipelinens verkliga tid på nytt material. Annonsläget är helt oförändrat."
+  "notes": "Stort lyft för take-väljaren ('bevara takes'): fungerar nu på ALLT material — även när personen framför kameran är en man (tidigare manglades djupa röster). Den sista (oftast bästa) tagningen förväljs automatiskt per slot, och pris- resp. begränsat-erbjudande-takes hamnar i egna kolumner. Ljud-isolation (renare bakgrund) är ny kryssruta i auto-pipeline-rutan, på som standard och nu mycket snabbare. Ett tyst klipp utan tal kraschar inte längre hela körningen. Auto-skapade projekt namnges nu från 'Mappnamn' och får en miniatyrbild som vanliga projekt. Plus: sista text-redigeringen i take-väljaren tappas inte, inga småord läcker in i undertexterna, ljudet i kort-previewen funkar konsekvent, och synkningen av långa klipp är klart snabbare. Annonsläget är oförändrat."
 }
